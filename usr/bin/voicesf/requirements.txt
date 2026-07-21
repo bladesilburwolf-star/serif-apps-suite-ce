@@ -1,0 +1,9 @@
+numpy
+scipy
+soundfile
+sounddevice
+PyQt5
+
+# Note: sounddevice needs PortAudio installed at the OS level.
+# On Debian/Ubuntu/XFCE systems:
+#   sudo apt install libportaudio2

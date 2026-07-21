@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=2.0
+Type=Application
+Name=Serif Apps Suite XL
+Comment=The early arcade version of serif-apps-auite!
+Exec=augmented-hub.py
+Icon=augmented-hub.py
+Terminal=false
+Categories=Utility;Games;
+StartupNotify=true
