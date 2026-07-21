@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Serif Apps Suite Complete
+Comment=The completed apps suite with many new apps!
+Exec=python3 /usr/bin/hub.py
+Icon=utilities-terminal
+Terminal=false
+Categories=Utility;Development;System;
+StartupNotify=true

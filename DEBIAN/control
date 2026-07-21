@@ -1,14 +1,15 @@
-Package: serif-apps-suite-xl
-Version: 2.0-1
+Package: serif-apps-suite-ce
+Version: 3.0-1
 Section: utils
 Priority: optional
 Architecture: all
 Maintainer: Serif Apps <developer@serifapps.com>
-Depends: python3, python3-tk, python3-pil, python3-pil.imagetk, python3-numpy, python3-pygame, vlc, pulseaudio-utils, libasound2-dev
-Description: Serif Apps Tactical Desktop Suite
- A unified retro-stylized development and forensic workstation.
- This package installs the Serif Control Hub, alongside five custom
- modules: the Portable Spectral Suite (Microscope), the Retro Image
- Spectrometer (Gloria Lens), the Vector 3D Object Viewer, the retro
- terminal Text Viewer, and the Legacy Theater Player. Early version of serif-apps-arcade is now available!
-
+Depends: python3, python3-tk, python3-pil, python3-pil.imagetk, python3-numpy, python3-pygame, vlc, pulseaudio-utils, libasound2-dev, ffmpeg
+Description: Complete edition of the Serif Apps tactical application suite
+ Serif-Apps-Suite-CE is the complete edition of the full suite of apps.
+ It adds a video mixer, screen recorder, voice changer, full 13 cabinet
+ arcade, and more.
+ .
+ All original applications have been upgraded and trimmed down to be ultra-lite
+ on system resources while maintaining high performance. The movie player and
+ image viewer have been updated with new features including a built-in editor.
